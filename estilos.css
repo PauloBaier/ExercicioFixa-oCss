@@ -1,3 +1,10 @@
-*{
-    
+
+p{
+    line-height: 1.6rem;
+}
+button{
+    text-transform: uppercase;
+}
+.cartao{
+    border: 1px solid #cbd5e1;
 }
