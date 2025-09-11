@@ -8,3 +8,13 @@ button{
 .cartao{
     border: 1px solid #cbd5e1;
 }
+
+body {
+    font-family: "Georgia, serif";
+}
+h1, h2 {
+    color: #0f172a;
+}
+h1 {
+    letter-spacing: 2px;
+}
