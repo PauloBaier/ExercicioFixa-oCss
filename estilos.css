@@ -4,9 +4,12 @@ p{
 }
 button{
     text-transform: uppercase;
+    color:white;
+    border: none;
 }
 .cartao{
     border: 1px solid #cbd5e1;
+    background-color: white;
 }
 
 body {
@@ -35,4 +38,11 @@ h1 {
 }
 #cabecalho {
     color: #334155;
+}
+.botao-destaque{
+    background-color: #ef4444;
+}
+
+.cartao.info{
+    background-color: #eff6ff;
 }
