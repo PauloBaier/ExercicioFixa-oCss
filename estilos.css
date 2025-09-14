@@ -46,3 +46,15 @@ h1 {
 .cartao.info{
     background-color: #eff6ff;
 }
+nav a:hover {
+    color: #dc2626;
+}
+.cartao:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+nav ul li {
+    list-style: none;
+}
+button:not(.botao-destaque) {
+    background-color: #475569;
+}
