@@ -18,3 +18,21 @@ h1, h2 {
 h1 {
     letter-spacing: 2px;
 }
+.container {
+    max-width: 800px;
+}
+.container {
+    margin: 0 auto;
+}
+.cartao {
+    margin: 20px 10px;
+}
+#rodape {
+    border-top: 4px solid #3b82f6;
+}
+#cabecalho {
+    background-color: #f8fafc;
+}
+#cabecalho {
+    color: #334155;
+}
